@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTestSuite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <testClassName>BA001_Remise5Users_Test</testClassName>
+    <testClassName>BA005_HistoriqueBorneQueue_Test</testClassName>
+    <testClassName>BA007_InterrompreAbonnement_Test</testClassName>
+    <testClassName>SC001_BA005_HistoriqueBorneQueue_Test</testClassName>
+    <testClassName>SC002_BA001_Remise5Users_Test</testClassName>
+    <testClassName>SM003_XP_ChangeSubscriptionTest</testClassName>
+    <testClassName>SM006_CancelZuoraSubscription_Test</testClassName>
+    <testClassName>SM010_OpportunityContact_Test</testClassName>
+    <testClassName>SM020_OpportunityProcessBuilder_Test</testClassName>
+    <testClassName>UOW001_CommunityTest</testClassName>
+    <testClassName>ZuoraApiTest</testClassName>
+    <testClassName>ZuoraOrderTest</testClassName>
+</ApexTestSuite>
